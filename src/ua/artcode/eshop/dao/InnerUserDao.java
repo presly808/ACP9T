@@ -6,7 +6,7 @@ import ua.artcode.eshop.model.User;
 import java.util.List;
 
 /**
- * Created by serhii on 24.09.15.
+ *
  */
 public class InnerUserDao implements UserDao {
 

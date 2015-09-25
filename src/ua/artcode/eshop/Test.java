@@ -5,7 +5,7 @@ import ua.artcode.eshop.model.User;
 import java.util.Arrays;
 
 /**
- * Created by serhii on 24.09.15.
+ *
  */
 public class Test {
 
