@@ -8,7 +8,7 @@ public interface BTree<T> {
 
     void add(T obj);
 
-    boolean contains(Object obj);
+    boolean contains(T obj);
 
     boolean remove(T obj);
 
