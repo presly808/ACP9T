@@ -1,7 +1,3 @@
-line1 v2
+line1 
 line2
-line3 v3
 open file
-new line - changed
-line4
-line5
