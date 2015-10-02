@@ -1,0 +1,7 @@
+line1
+line2
+openfile()
+line5
+line6
+line7
+
